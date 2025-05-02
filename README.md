@@ -43,3 +43,23 @@ Hyperparameter Tuning: Use grid search and cross-validation to fine-tune model p
 
 Evaluation: Assess model performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 
+
+Installation
+Clone this repository to your local machine:
+    git clone https://github.com/your-username/churn-classification.git
+
+
+Dependencies:
+Python 3.x
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost (optional)
+
+Install the required libraries using pip:
+pip install -r requirements.txt
+
+
